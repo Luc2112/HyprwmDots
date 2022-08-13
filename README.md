@@ -8,4 +8,4 @@ Welcome to my dotfiles for a dark hyprland based rice
 i use xfceTerm with the dark pastels preset but you can use any terminal just make it fully transparent.
 
 ##usefull utilities
-mangal , sioyek
+mangal , sioyek , fish
